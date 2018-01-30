@@ -1,5 +1,6 @@
 package com.book.geo
 
+import com.book.geo.repository.MessageRepository
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.jetbrains.exposed.spring.SpringTransactionManager

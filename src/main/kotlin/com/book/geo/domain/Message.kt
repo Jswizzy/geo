@@ -1,5 +1,7 @@
 package com.book.geo.domain
 
+import org.postgis.Point
+
 /**
  * It represents the message shown on the maps
  */
